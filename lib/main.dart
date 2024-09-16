@@ -50,7 +50,7 @@ class _MyAppState extends State<MyApp> {
               : 'حاول مرة أخرى',
           style: TextStyle(
             fontSize: 42.0,
-            color: Colors.white,
+            color: Colors.orange,
           ),
         ),
         Padding(
